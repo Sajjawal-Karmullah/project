@@ -1,0 +1,5 @@
+#This file is ignored when files are added to staged area
+secret.txt
+
+#Log file
+# *.log
